@@ -9,6 +9,7 @@ this project uses date-based 'snapshot' version identifiers.
 
 ### Removed
 - `l3graphics` package: integrated into `l3kernel`
+- `l3opacity` package: integrated into `l3kernel`
 
 ## [2025-03-10]
 
